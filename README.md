@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dilipkm007
-- 👀 I’m interested in Data Science and iOS problem solving 
+- 👋 Hi, I’m Dilip
+- 👀 I’m interested in Data Science and iOS projects
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Business problems
 - 📫 How to reach me dilipkumarmahadevg@gmail.com
